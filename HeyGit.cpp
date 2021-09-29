@@ -13,7 +13,9 @@ int main() {
     cout << "Heejin, Hyunjin, Haseul, Yeojin, ViVi, Kim Lip, Jinsoul, Choerry, Yves, Chuu, GoWon, Olivia Hye \n\n";
 
     cout << "Company: \n";
-    cout << "Blockberry Creative KR. \n";
+    cout << "Blockberry Creative KR. \n\n\n";
+
+    cout << "by ozen | wayyb" << endl;
 
     return 0;
 }
